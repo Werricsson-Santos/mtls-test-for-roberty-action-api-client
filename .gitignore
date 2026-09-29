@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+
+certs/*.key
+certs/*.crt
+certs/*.csr
+certs/*.pfx
+certs/*.srl
+!certs/.gitkeep
